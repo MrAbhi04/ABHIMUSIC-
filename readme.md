@@ -1,4 +1,4 @@
-<img src="https://envs.sh/SQ0.mp4" align="right" width="200" height="200"/>
+<img src="https://graph.org/file/6bdf8e8ef472df6e30303.jpg" align="right" width="200" height="200"/>
 
 # ABHI MUSIC <img src="https://img.shields.io/github/v/release/TAEMABHI/ABHIMUSICBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
